@@ -1,0 +1,44 @@
+F:\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.frmSaveModule.resources
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.frmMainView.resources
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.frmStarterView.resources
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Projects\Calculator\Calculator\obj\Debug\Calculator.frmMainViewDetail.resources
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\obj\Debug\Calculator.frmMainViewDetail.resources
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\obj\Debug\Calculator.frmStarterView.resources
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Meirunas\Desktop\aa\Calculator\Calculator\obj\Debug\Calculator.pdb
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\obj\Debug\Calculator.frmMainViewDetail.resources
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\obj\Debug\Calculator.frmStarterView.resources
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\crr\applc\ttr\v se\se1804MeirunasSmitasCmCpWbUg\6COSC001W-Enterprise Application Development\fls\Calculator\Calculator\obj\Debug\Calculator.pdb
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\bin\Debug\Calculator.exe.config
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\bin\Debug\Calculator.exe
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\bin\Debug\Calculator.pdb
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\obj\Debug\Calculator.frmMainViewDetail.resources
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\obj\Debug\Calculator.frmStarterView.resources
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\obj\Debug\Calculator.Properties.Resources.resources
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\obj\Debug\Calculator.csproj.GenerateResource.Cache
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\obj\Debug\Calculator.exe
+J:\Studies\Uni year 3\Enterprice Application Development\database\Calculator\Calculator2\obj\Debug\Calculator.pdb

@@ -1,0 +1,11 @@
+F:\Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+F:\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+F:\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+F:\Projects\Calculator\Calculator\obj\Release\Calculator.frmMain.resources
+F:\Projects\Calculator\Calculator\obj\Release\Calculator.frmSaveModule.resources
+F:\Projects\Calculator\Calculator\obj\Release\Calculator.frmMainView.resources
+F:\Projects\Calculator\Calculator\obj\Release\Calculator.frmStarterView.resources
+F:\Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+F:\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+F:\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+F:\Projects\Calculator\Calculator\obj\Release\Calculator.pdb

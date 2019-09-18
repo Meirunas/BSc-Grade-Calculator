@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Module>
+    <ModuleID>1</ModuleID>
+    <Year>1</Year>
+    <Title>test</Title>
+    <Assesment1>test 1</Assesment1>
+    <Assesment2>test 2</Assesment2>
+    <Weight>20</Weight>
+    <Total>25</Total>
+  </Module>
+  <Module>
+    <ModuleID>2</ModuleID>
+    <Year>2</Year>
+    <Title>test1</Title>
+    <Assesment1>testh</Assesment1>
+    <Assesment2>hgfh</Assesment2>
+    <Weight>20</Weight>
+    <Total>100</Total>
+  </Module>
+  <Module>
+    <ModuleID>3</ModuleID>
+    <Year>3</Year>
+    <Title>test</Title>
+    <Assesment1>h</Assesment1>
+    <Assesment2>hjh</Assesment2>
+    <Weight>20</Weight>
+    <Total>17</Total>
+  </Module>
+</ArrayOfModule>
